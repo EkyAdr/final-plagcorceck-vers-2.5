@@ -421,10 +421,11 @@ in the Software without restriction...
 
 ## 👨‍💻 Author & Support
 
-**Gabriel Arung Ramba**
-- 📧 Email: your-email@example.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
+**FE Eky Adr**
+**BE Gabriel Arung Ramba**
+- 📧 Email: ekyadr21@gmail.com
+- 🐙 GitHub: https://github.com/EkyAdr
+- 🌐 Website: https://adr21myid.netlify.app/
 
 ### Getting Help
 - 📖 **Documentation**: Check `/docs` folder untuk panduan detail

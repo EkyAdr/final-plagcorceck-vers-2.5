@@ -1,4 +1,4 @@
-# 🔍 Advanced Plagiarism Checker v2.0
+# 🔍 Advanced Plagiarism Checker v2.5
 
 Aplikasi berbasis web untuk mendeteksi plagiat dengan **AI-powered recommendations**, **history tracking**, dan **deep analytics** menggunakan Node.js dan algoritma NLP canggih dengan akurasi tinggi (95%+).
 

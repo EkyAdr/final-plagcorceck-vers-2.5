@@ -451,7 +451,7 @@ Terima kasih kepada:
 
 ---
 
-**Catatan untuk Skripsi**: Aplikasi v2.0 ini mencakup semua komponen yang dibutuhkan untuk skripsi tingkat sarjana dan master, termasuk:
+**Catatan untuk Skripsi**: Aplikasi v2.5 ini mencakup semua komponen yang dibutuhkan untuk skripsi tingkat sarjana dan master, termasuk:
 - ✅ Algoritma canggih dengan AI enhancement
 - ✅ Interface modern dengan analytics dashboard  
 - ✅ History tracking untuk research longitudinal
@@ -463,4 +463,4 @@ Pastikan untuk menjelaskan detail algoritma AI, metodologi pattern analysis, dan
 
 ---
 
-*Advanced Plagiarism Checker v2.0 - Powered by AI, Built for the Future* 🚀
+*Advanced Plagiarism Checker v2.5 - Powered by AI, Built for the Future* 🚀

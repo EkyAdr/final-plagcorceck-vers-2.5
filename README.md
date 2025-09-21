@@ -421,8 +421,8 @@ in the Software without restriction...
 
 ## 👨‍💻 Author & Support
 
-**FE Eky Adr**
-**BE Gabriel Arung Ramba**
+- **FE Eky Adr**
+- **BE Gabriel Arung Ramba**
 - 📧 Email: ekyadr21@gmail.com
 - 🐙 GitHub: https://github.com/EkyAdr
 - 🌐 Website: https://adr21myid.netlify.app/

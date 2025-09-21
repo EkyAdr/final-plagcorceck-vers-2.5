@@ -2,7 +2,7 @@
 
 Aplikasi berbasis web untuk mendeteksi plagiat dengan **AI-powered recommendations**, **history tracking**, dan **deep analytics** menggunakan Node.js dan algoritma NLP canggih dengan akurasi tinggi (95%+).
 
-## ✨ Fitur Utama v2.0
+## ✨ Fitur Utama v2.5
 
 ### 🧠 AI-Powered Analysis
 - **Smart Recommendations**: AI memberikan saran perbaikan dengan prioritas (Wajib, Sedang, Rendah)

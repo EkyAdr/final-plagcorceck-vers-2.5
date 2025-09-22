@@ -191,7 +191,7 @@ GET    /reference-documents        # List dokumen referensi
 DELETE /reference-documents/:id    # Hapus dokumen referensi
 ```
 
-### New v2.0 Endpoints
+### New v2.5 Endpoints
 ```http
 GET    /check-history              # Get history dengan pagination
 GET    /check-history/:id          # Detail history entry
@@ -316,7 +316,7 @@ BACKUP_INTERVAL=86400000    # 24 hours in ms
 ### Development Setup
 ```bash
 # Fork repository
-git clone https://github.com/yourusername/advanced-plagiarism-checker.git
+git clone https://github.com/ekyadr/advanced-plagiarism-checker.git
 cd advanced-plagiarism-checker
 
 # Install dependencies
@@ -421,7 +421,7 @@ in the Software without restriction...
 
 ## 👨‍💻 Author & Support
 
-FE Eky Adr
+FE Eky Adr &
 BE Gabriel Arung Ramba
 
 - 📧 Email: ekyadr21@gmail.com
